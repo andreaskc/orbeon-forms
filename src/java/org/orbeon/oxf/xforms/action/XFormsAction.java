@@ -22,11 +22,7 @@ import org.orbeon.oxf.xforms.XFormsContextStack;
 import org.orbeon.oxf.xforms.analysis.VariableAnalysis;
 import org.orbeon.oxf.xforms.event.XFormsEvent;
 import org.orbeon.oxf.xforms.event.XFormsEventObserver;
-<<<<<<< HEAD
 import org.orbeon.oxf.xforms.xbl.XBLBindings;
-=======
-import org.orbeon.oxf.xforms.xbl.XBLBindingsBase;
->>>>>>> 4fbd4e6... Event context information: support inline text like for setvalue and variable values.
 import org.orbeon.oxf.xml.dom4j.Dom4jUtils;
 import org.orbeon.oxf.xml.dom4j.LocationData;
 import org.orbeon.saxon.om.Item;
